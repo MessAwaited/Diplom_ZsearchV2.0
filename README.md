@@ -14,9 +14,9 @@
 
 ## 🚀 Запуск проекта
 Написать в терминале 
-python -m venv venv          # Создание виртуального окружения
-source venv/bin/activate     # Активация (Linux/macOS)
-venv\Scripts\activate        # Активация (Windows)
+python -m venv venv # Создание виртуального окружения
+source venv/bin/activate # Активация (Linux/macOS)
+venv\Scripts\activate # Активация (Windows)
 pip install -r requirements.txt
 
 ## 📌 Результаты
