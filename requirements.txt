@@ -1,0 +1,6 @@
+flet==0.21.2
+sqlalchemy
+python-dotenv
+scikit-learn
+numpy
+bcrypt
