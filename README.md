@@ -13,11 +13,11 @@
 - Pytorch
 
 ## 🚀 Запуск проекта
-```bash
-git clone https://github.com/yourname/diploma.git
-cd diploma
-docker-compose up
-```
+Написать в терминале 
+python -m venv venv          # Создание виртуального окружения
+source venv/bin/activate     # Активация (Linux/macOS)
+venv\Scripts\activate        # Активация (Windows)
+pip install -r requirements.txt
 
 ## 📌 Результаты
 - Повысил точность рекомендаций на 20% с помощью алгоритмов TF-IDF и косинусного сходства.
